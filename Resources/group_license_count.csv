@@ -1,51 +1,51 @@
-,State,Gun Supplier Count
-0,AK,528
-1,AL,1043
-2,AR,1087
-3,AZ,1668
-4,CA,2224
-5,CO,1283
-6,CT,368
-7,DE,4
-8,FL,74
-9,GA,2035
-10,HI,1580
-11,IA,15
-12,ID,67
-13,IL,1087
-14,IN,760
-15,KS,1599
-16,KY,1196
-17,LA,896
-18,MA,1128
-19,MD,910
-20,ME,358
-21,MI,387
-22,MN,454
-23,MO,1400
-24,MS,1085
-25,MT,1682
-26,NC,1
-27,ND,748
-28,NE,815
-29,NH,2015
-30,NJ,353
-31,NM,572
-32,NV,327
-33,NY,192
-34,OH,616
-35,OK,550
-36,OR,1113
-37,PA,1847
-38,RI,1254
-39,SC,1010
-40,SD,1919
-41,TN,42
-42,TX,66
-43,UT,898
-44,VA,413
-45,VT,1420
-46,WA,5630
-47,WI,776
-48,WV,1284
-49,WY,5
+State,Gun Supplier Count
+Alaska,528
+Alabama,1043
+Arkansas,1087
+Arizona,1668
+California,2224
+Colorado,1283
+Connecticut,368
+Delaware,4
+Florida,74
+Georgia,2035
+Hawaii,1580
+Iowa,15
+Idaho,67
+Illinois,1087
+Indiana,760
+Kansas,1599
+Kentucky,1196
+Louisiana,896
+Massachusetts,1128
+Maryland,910
+Maine,358
+Michigan,387
+Minnesota,454
+Missouri,1400
+Mississippi,1085
+Montana,1682
+North Carolina,1
+North Dakota,748
+Nebraska,815
+New Hampshire,2015
+New Jersey,353
+New Mexico,572
+Nevada,327
+New York,192
+Ohio,616
+Oklahoma,550
+Oregon,1113
+Pennsylvania,1847
+Rhode Island,1254
+South Carolina,1010
+South Dakota,1919
+Tennessee,42
+Texas,66
+Utah,898
+Virginia,413
+Vermont,1420
+Washington,5630
+Wisconsin,776
+West Virginia,1284
+Wyoming,5
