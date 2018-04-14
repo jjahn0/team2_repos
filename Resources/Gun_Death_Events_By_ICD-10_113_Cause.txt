@@ -1,0 +1,801 @@
+Year	State	ICD-10 113 Cause	Deaths
+2013	Alabama	Accidental discharge of firearms (W32-W34)	25
+2013	Alabama	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	504
+2013	Alabama	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	317
+2013	Alabama	"#Legal intervention (Y35,Y89.0)"	0
+2013	Alaska	Accidental discharge of firearms (W32-W34)	0
+2013	Alaska	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	120
+2013	Alaska	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	19
+2013	Alaska	"#Legal intervention (Y35,Y89.0)"	0
+2013	Arizona	Accidental discharge of firearms (W32-W34)	0
+2013	Arizona	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	655
+2013	Arizona	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	251
+2013	Arizona	"#Legal intervention (Y35,Y89.0)"	13
+2013	Arkansas	Accidental discharge of firearms (W32-W34)	15
+2013	Arkansas	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	322
+2013	Arkansas	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	152
+2013	Arkansas	"#Legal intervention (Y35,Y89.0)"	0
+2013	California	Accidental discharge of firearms (W32-W34)	35
+2013	California	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	1571
+2013	California	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	1312
+2013	California	"#Legal intervention (Y35,Y89.0)"	97
+2013	Colorado	Accidental discharge of firearms (W32-W34)	0
+2013	Colorado	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	489
+2013	Colorado	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	106
+2013	Colorado	"#Legal intervention (Y35,Y89.0)"	0
+2013	Connecticut	Accidental discharge of firearms (W32-W34)	0
+2013	Connecticut	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	92
+2013	Connecticut	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	66
+2013	Connecticut	"#Legal intervention (Y35,Y89.0)"	0
+2013	Delaware	Accidental discharge of firearms (W32-W34)	0
+2013	Delaware	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	60
+2013	Delaware	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	38
+2013	Delaware	"#Legal intervention (Y35,Y89.0)"	0
+2013	Florida	Accidental discharge of firearms (W32-W34)	22
+2013	Florida	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	1566
+2013	Florida	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	816
+2013	Florida	"#Legal intervention (Y35,Y89.0)"	27
+2013	Georgia	Accidental discharge of firearms (W32-W34)	24
+2013	Georgia	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	747
+2013	Georgia	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	472
+2013	Georgia	"#Legal intervention (Y35,Y89.0)"	14
+2013	Hawaii	Accidental discharge of firearms (W32-W34)	0
+2013	Hawaii	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	28
+2013	Hawaii	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	0
+2013	Hawaii	"#Legal intervention (Y35,Y89.0)"	0
+2013	Idaho	Accidental discharge of firearms (W32-W34)	0
+2013	Idaho	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	200
+2013	Idaho	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	14
+2013	Idaho	"#Legal intervention (Y35,Y89.0)"	0
+2013	Illinois	Accidental discharge of firearms (W32-W34)	18
+2013	Illinois	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	496
+2013	Illinois	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	576
+2013	Illinois	"#Legal intervention (Y35,Y89.0)"	16
+2013	Indiana	Accidental discharge of firearms (W32-W34)	15
+2013	Indiana	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	523
+2013	Indiana	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	298
+2013	Indiana	"#Legal intervention (Y35,Y89.0)"	15
+2013	Iowa	Accidental discharge of firearms (W32-W34)	0
+2013	Iowa	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	221
+2013	Iowa	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	24
+2013	Iowa	"#Legal intervention (Y35,Y89.0)"	0
+2013	Kansas	Accidental discharge of firearms (W32-W34)	0
+2013	Kansas	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	241
+2013	Kansas	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	79
+2013	Kansas	"#Legal intervention (Y35,Y89.0)"	0
+2013	Kentucky	Accidental discharge of firearms (W32-W34)	21
+2013	Kentucky	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	453
+2013	Kentucky	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	138
+2013	Kentucky	"#Legal intervention (Y35,Y89.0)"	0
+2013	Louisiana	Accidental discharge of firearms (W32-W34)	19
+2013	Louisiana	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	408
+2013	Louisiana	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	446
+2013	Louisiana	"#Legal intervention (Y35,Y89.0)"	0
+2013	Maine	Accidental discharge of firearms (W32-W34)	0
+2013	Maine	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	137
+2013	Maine	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	13
+2013	Maine	"#Legal intervention (Y35,Y89.0)"	0
+2013	Maryland	Accidental discharge of firearms (W32-W34)	0
+2013	Maryland	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	257
+2013	Maryland	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	299
+2013	Maryland	"#Legal intervention (Y35,Y89.0)"	14
+2013	Massachusetts	Accidental discharge of firearms (W32-W34)	0
+2013	Massachusetts	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	112
+2013	Massachusetts	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	84
+2013	Massachusetts	"#Legal intervention (Y35,Y89.0)"	13
+2013	Michigan	Accidental discharge of firearms (W32-W34)	10
+2013	Michigan	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	674
+2013	Michigan	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	493
+2013	Michigan	"#Legal intervention (Y35,Y89.0)"	0
+2013	Minnesota	Accidental discharge of firearms (W32-W34)	0
+2013	Minnesota	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	339
+2013	Minnesota	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	76
+2013	Minnesota	"#Legal intervention (Y35,Y89.0)"	0
+2013	Mississippi	Accidental discharge of firearms (W32-W34)	17
+2013	Mississippi	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	279
+2013	Mississippi	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	215
+2013	Mississippi	"#Legal intervention (Y35,Y89.0)"	0
+2013	Missouri	Accidental discharge of firearms (W32-W34)	19
+2013	Missouri	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	556
+2013	Missouri	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	293
+2013	Missouri	"#Legal intervention (Y35,Y89.0)"	0
+2013	Montana	Accidental discharge of firearms (W32-W34)	0
+2013	Montana	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	147
+2013	Montana	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	14
+2013	Montana	"#Legal intervention (Y35,Y89.0)"	0
+2013	Nebraska	Accidental discharge of firearms (W32-W34)	0
+2013	Nebraska	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	111
+2013	Nebraska	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	51
+2013	Nebraska	"#Legal intervention (Y35,Y89.0)"	0
+2013	Nevada	Accidental discharge of firearms (W32-W34)	0
+2013	Nevada	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	292
+2013	Nevada	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	88
+2013	Nevada	"#Legal intervention (Y35,Y89.0)"	0
+2013	New Hampshire	Accidental discharge of firearms (W32-W34)	0
+2013	New Hampshire	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	81
+2013	New Hampshire	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	0
+2013	New Hampshire	"#Legal intervention (Y35,Y89.0)"	0
+2013	New Jersey	Accidental discharge of firearms (W32-W34)	0
+2013	New Jersey	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	194
+2013	New Jersey	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	298
+2013	New Jersey	"#Legal intervention (Y35,Y89.0)"	0
+2013	New Mexico	Accidental discharge of firearms (W32-W34)	0
+2013	New Mexico	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	222
+2013	New Mexico	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	82
+2013	New Mexico	"#Legal intervention (Y35,Y89.0)"	14
+2013	New York	Accidental discharge of firearms (W32-W34)	0
+2013	New York	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	465
+2013	New York	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	380
+2013	New York	"#Legal intervention (Y35,Y89.0)"	13
+2013	North Carolina	Accidental discharge of firearms (W32-W34)	18
+2013	North Carolina	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	771
+2013	North Carolina	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	412
+2013	North Carolina	"#Legal intervention (Y35,Y89.0)"	0
+2013	North Dakota	Accidental discharge of firearms (W32-W34)	0
+2013	North Dakota	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	76
+2013	North Dakota	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	0
+2013	North Dakota	"#Legal intervention (Y35,Y89.0)"	0
+2013	Ohio	Accidental discharge of firearms (W32-W34)	21
+2013	Ohio	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	800
+2013	Ohio	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	447
+2013	Ohio	"#Legal intervention (Y35,Y89.0)"	13
+2013	Oklahoma	Accidental discharge of firearms (W32-W34)	15
+2013	Oklahoma	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	433
+2013	Oklahoma	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	178
+2013	Oklahoma	"#Legal intervention (Y35,Y89.0)"	0
+2013	Oregon	Accidental discharge of firearms (W32-W34)	0
+2013	Oregon	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	389
+2013	Oregon	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	54
+2013	Oregon	"#Legal intervention (Y35,Y89.0)"	0
+2013	Pennsylvania	Accidental discharge of firearms (W32-W34)	22
+2013	Pennsylvania	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	918
+2013	Pennsylvania	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	486
+2013	Pennsylvania	"#Legal intervention (Y35,Y89.0)"	17
+2013	Rhode Island	Accidental discharge of firearms (W32-W34)	0
+2013	Rhode Island	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	34
+2013	Rhode Island	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	18
+2013	Rhode Island	"#Legal intervention (Y35,Y89.0)"	0
+2013	South Carolina	Accidental discharge of firearms (W32-W34)	15
+2013	South Carolina	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	470
+2013	South Carolina	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	244
+2013	South Carolina	"#Legal intervention (Y35,Y89.0)"	10
+2013	South Dakota	Accidental discharge of firearms (W32-W34)	0
+2013	South Dakota	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	71
+2013	South Dakota	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	0
+2013	South Dakota	"#Legal intervention (Y35,Y89.0)"	0
+2013	Tennessee	Accidental discharge of firearms (W32-W34)	19
+2013	Tennessee	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	676
+2013	Tennessee	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	309
+2013	Tennessee	"#Legal intervention (Y35,Y89.0)"	0
+2013	Texas	Accidental discharge of firearms (W32-W34)	38
+2013	Texas	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	1780
+2013	Texas	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	912
+2013	Texas	"#Legal intervention (Y35,Y89.0)"	28
+2013	Utah	Accidental discharge of firearms (W32-W34)	0
+2013	Utah	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	295
+2013	Utah	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	33
+2013	Utah	"#Legal intervention (Y35,Y89.0)"	0
+2013	Vermont	Accidental discharge of firearms (W32-W34)	0
+2013	Vermont	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	59
+2013	Vermont	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	0
+2013	Vermont	"#Legal intervention (Y35,Y89.0)"	0
+2013	Virginia	Accidental discharge of firearms (W32-W34)	10
+2013	Virginia	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	601
+2013	Virginia	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	233
+2013	Virginia	"#Legal intervention (Y35,Y89.0)"	0
+2013	Washington	Accidental discharge of firearms (W32-W34)	11
+2013	Washington	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	483
+2013	Washington	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	116
+2013	Washington	"#Legal intervention (Y35,Y89.0)"	19
+2013	West Virginia	Accidental discharge of firearms (W32-W34)	0
+2013	West Virginia	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	225
+2013	West Virginia	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	43
+2013	West Virginia	"#Legal intervention (Y35,Y89.0)"	0
+2013	Wisconsin	Accidental discharge of firearms (W32-W34)	10
+2013	Wisconsin	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	437
+2013	Wisconsin	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	115
+2013	Wisconsin	"#Legal intervention (Y35,Y89.0)"	0
+2013	Wyoming	Accidental discharge of firearms (W32-W34)	0
+2013	Wyoming	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	89
+2013	Wyoming	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	0
+2013	Wyoming	"#Legal intervention (Y35,Y89.0)"	0
+2014	Alabama	Accidental discharge of firearms (W32-W34)	29
+2014	Alabama	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	479
+2014	Alabama	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	292
+2014	Alabama	"#Legal intervention (Y35,Y89.0)"	0
+2014	Alaska	Accidental discharge of firearms (W32-W34)	0
+2014	Alaska	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	115
+2014	Alaska	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	21
+2014	Alaska	"#Legal intervention (Y35,Y89.0)"	0
+2014	Arizona	Accidental discharge of firearms (W32-W34)	0
+2014	Arizona	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	683
+2014	Arizona	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	212
+2014	Arizona	"#Legal intervention (Y35,Y89.0)"	12
+2014	Arkansas	Accidental discharge of firearms (W32-W34)	0
+2014	Arkansas	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	323
+2014	Arkansas	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	161
+2014	Arkansas	"#Legal intervention (Y35,Y89.0)"	0
+2014	California	Accidental discharge of firearms (W32-W34)	23
+2014	California	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	1582
+2014	California	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	1233
+2014	California	"#Legal intervention (Y35,Y89.0)"	89
+2014	Colorado	Accidental discharge of firearms (W32-W34)	0
+2014	Colorado	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	539
+2014	Colorado	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	102
+2014	Colorado	"#Legal intervention (Y35,Y89.0)"	10
+2014	Connecticut	Accidental discharge of firearms (W32-W34)	0
+2014	Connecticut	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	125
+2014	Connecticut	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	58
+2014	Connecticut	"#Legal intervention (Y35,Y89.0)"	0
+2014	Delaware	Accidental discharge of firearms (W32-W34)	0
+2014	Delaware	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	59
+2014	Delaware	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	38
+2014	Delaware	"#Legal intervention (Y35,Y89.0)"	0
+2014	Florida	Accidental discharge of firearms (W32-W34)	29
+2014	Florida	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	1538
+2014	Florida	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	818
+2014	Florida	"#Legal intervention (Y35,Y89.0)"	23
+2014	Georgia	Accidental discharge of firearms (W32-W34)	29
+2014	Georgia	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	841
+2014	Georgia	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	506
+2014	Georgia	"#Legal intervention (Y35,Y89.0)"	10
+2014	Hawaii	Accidental discharge of firearms (W32-W34)	0
+2014	Hawaii	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	33
+2014	Hawaii	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	0
+2014	Hawaii	"#Legal intervention (Y35,Y89.0)"	0
+2014	Idaho	Accidental discharge of firearms (W32-W34)	0
+2014	Idaho	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	182
+2014	Idaho	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	21
+2014	Idaho	"#Legal intervention (Y35,Y89.0)"	0
+2014	Illinois	Accidental discharge of firearms (W32-W34)	0
+2014	Illinois	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	533
+2014	Illinois	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	614
+2014	Illinois	"#Legal intervention (Y35,Y89.0)"	10
+2014	Indiana	Accidental discharge of firearms (W32-W34)	15
+2014	Indiana	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	528
+2014	Indiana	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	259
+2014	Indiana	"#Legal intervention (Y35,Y89.0)"	0
+2014	Iowa	Accidental discharge of firearms (W32-W34)	0
+2014	Iowa	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	194
+2014	Iowa	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	36
+2014	Iowa	"#Legal intervention (Y35,Y89.0)"	0
+2014	Kansas	Accidental discharge of firearms (W32-W34)	0
+2014	Kansas	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	238
+2014	Kansas	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	73
+2014	Kansas	"#Legal intervention (Y35,Y89.0)"	10
+2014	Kentucky	Accidental discharge of firearms (W32-W34)	13
+2014	Kentucky	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	470
+2014	Kentucky	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	138
+2014	Kentucky	"#Legal intervention (Y35,Y89.0)"	0
+2014	Louisiana	Accidental discharge of firearms (W32-W34)	19
+2014	Louisiana	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	444
+2014	Louisiana	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	421
+2014	Louisiana	"#Legal intervention (Y35,Y89.0)"	0
+2014	Maine	Accidental discharge of firearms (W32-W34)	0
+2014	Maine	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	116
+2014	Maine	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	10
+2014	Maine	"#Legal intervention (Y35,Y89.0)"	0
+2014	Maryland	Accidental discharge of firearms (W32-W34)	0
+2014	Maryland	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	277
+2014	Maryland	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	249
+2014	Maryland	"#Legal intervention (Y35,Y89.0)"	17
+2014	Massachusetts	Accidental discharge of firearms (W32-W34)	0
+2014	Massachusetts	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	130
+2014	Massachusetts	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	90
+2014	Massachusetts	"#Legal intervention (Y35,Y89.0)"	0
+2014	Michigan	Accidental discharge of firearms (W32-W34)	0
+2014	Michigan	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	671
+2014	Michigan	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	411
+2014	Michigan	"#Legal intervention (Y35,Y89.0)"	0
+2014	Minnesota	Accidental discharge of firearms (W32-W34)	0
+2014	Minnesota	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	308
+2014	Minnesota	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	59
+2014	Minnesota	"#Legal intervention (Y35,Y89.0)"	0
+2014	Mississippi	Accidental discharge of firearms (W32-W34)	17
+2014	Mississippi	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	251
+2014	Mississippi	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	259
+2014	Mississippi	"#Legal intervention (Y35,Y89.0)"	0
+2014	Missouri	Accidental discharge of firearms (W32-W34)	14
+2014	Missouri	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	588
+2014	Missouri	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	327
+2014	Missouri	"#Legal intervention (Y35,Y89.0)"	10
+2014	Montana	Accidental discharge of firearms (W32-W34)	0
+2014	Montana	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	149
+2014	Montana	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	14
+2014	Montana	"#Legal intervention (Y35,Y89.0)"	0
+2014	Nebraska	Accidental discharge of firearms (W32-W34)	0
+2014	Nebraska	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	133
+2014	Nebraska	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	39
+2014	Nebraska	"#Legal intervention (Y35,Y89.0)"	0
+2014	Nevada	Accidental discharge of firearms (W32-W34)	0
+2014	Nevada	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	309
+2014	Nevada	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	106
+2014	Nevada	"#Legal intervention (Y35,Y89.0)"	0
+2014	New Hampshire	Accidental discharge of firearms (W32-W34)	0
+2014	New Hampshire	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	110
+2014	New Hampshire	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	0
+2014	New Hampshire	"#Legal intervention (Y35,Y89.0)"	0
+2014	New Jersey	Accidental discharge of firearms (W32-W34)	0
+2014	New Jersey	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	194
+2014	New Jersey	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	265
+2014	New Jersey	"#Legal intervention (Y35,Y89.0)"	0
+2014	New Mexico	Accidental discharge of firearms (W32-W34)	0
+2014	New Mexico	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	244
+2014	New Mexico	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	76
+2014	New Mexico	"#Legal intervention (Y35,Y89.0)"	14
+2014	New York	Accidental discharge of firearms (W32-W34)	10
+2014	New York	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	474
+2014	New York	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	372
+2014	New York	"#Legal intervention (Y35,Y89.0)"	13
+2014	North Carolina	Accidental discharge of firearms (W32-W34)	39
+2014	North Carolina	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	760
+2014	North Carolina	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	391
+2014	North Carolina	"#Legal intervention (Y35,Y89.0)"	10
+2014	North Dakota	Accidental discharge of firearms (W32-W34)	0
+2014	North Dakota	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	85
+2014	North Dakota	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	0
+2014	North Dakota	"#Legal intervention (Y35,Y89.0)"	0
+2014	Ohio	Accidental discharge of firearms (W32-W34)	18
+2014	Ohio	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	744
+2014	Ohio	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	422
+2014	Ohio	"#Legal intervention (Y35,Y89.0)"	17
+2014	Oklahoma	Accidental discharge of firearms (W32-W34)	15
+2014	Oklahoma	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	435
+2014	Oklahoma	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	157
+2014	Oklahoma	"#Legal intervention (Y35,Y89.0)"	0
+2014	Oregon	Accidental discharge of firearms (W32-W34)	0
+2014	Oregon	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	422
+2014	Oregon	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	53
+2014	Oregon	"#Legal intervention (Y35,Y89.0)"	16
+2014	Pennsylvania	Accidental discharge of firearms (W32-W34)	14
+2014	Pennsylvania	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	897
+2014	Pennsylvania	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	466
+2014	Pennsylvania	"#Legal intervention (Y35,Y89.0)"	11
+2014	Rhode Island	Accidental discharge of firearms (W32-W34)	0
+2014	Rhode Island	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	20
+2014	Rhode Island	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	13
+2014	Rhode Island	"#Legal intervention (Y35,Y89.0)"	0
+2014	South Carolina	Accidental discharge of firearms (W32-W34)	13
+2014	South Carolina	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	479
+2014	South Carolina	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	266
+2014	South Carolina	"#Legal intervention (Y35,Y89.0)"	0
+2014	South Dakota	Accidental discharge of firearms (W32-W34)	0
+2014	South Dakota	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	76
+2014	South Dakota	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	0
+2014	South Dakota	"#Legal intervention (Y35,Y89.0)"	0
+2014	Tennessee	Accidental discharge of firearms (W32-W34)	10
+2014	Tennessee	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	644
+2014	Tennessee	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	315
+2014	Tennessee	"#Legal intervention (Y35,Y89.0)"	0
+2014	Texas	Accidental discharge of firearms (W32-W34)	40
+2014	Texas	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	1789
+2014	Texas	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	965
+2014	Texas	"#Legal intervention (Y35,Y89.0)"	24
+2014	Utah	Accidental discharge of firearms (W32-W34)	0
+2014	Utah	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	278
+2014	Utah	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	36
+2014	Utah	"#Legal intervention (Y35,Y89.0)"	14
+2014	Vermont	Accidental discharge of firearms (W32-W34)	0
+2014	Vermont	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	59
+2014	Vermont	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	0
+2014	Vermont	"#Legal intervention (Y35,Y89.0)"	0
+2014	Virginia	Accidental discharge of firearms (W32-W34)	12
+2014	Virginia	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	626
+2014	Virginia	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	235
+2014	Virginia	"#Legal intervention (Y35,Y89.0)"	12
+2014	Washington	Accidental discharge of firearms (W32-W34)	0
+2014	Washington	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	551
+2014	Washington	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	120
+2014	Washington	"#Legal intervention (Y35,Y89.0)"	22
+2014	West Virginia	Accidental discharge of firearms (W32-W34)	0
+2014	West Virginia	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	217
+2014	West Virginia	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	58
+2014	West Virginia	"#Legal intervention (Y35,Y89.0)"	0
+2014	Wisconsin	Accidental discharge of firearms (W32-W34)	0
+2014	Wisconsin	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	352
+2014	Wisconsin	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	121
+2014	Wisconsin	"#Legal intervention (Y35,Y89.0)"	0
+2014	Wyoming	Accidental discharge of firearms (W32-W34)	0
+2014	Wyoming	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	78
+2014	Wyoming	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	0
+2014	Wyoming	"#Legal intervention (Y35,Y89.0)"	0
+2015	Alabama	Accidental discharge of firearms (W32-W34)	20
+2015	Alabama	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	528
+2015	Alabama	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	391
+2015	Alabama	"#Legal intervention (Y35,Y89.0)"	0
+2015	Alaska	Accidental discharge of firearms (W32-W34)	0
+2015	Alaska	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	123
+2015	Alaska	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	42
+2015	Alaska	"#Legal intervention (Y35,Y89.0)"	0
+2015	Arizona	Accidental discharge of firearms (W32-W34)	0
+2015	Arizona	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	707
+2015	Arizona	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	236
+2015	Arizona	"#Legal intervention (Y35,Y89.0)"	14
+2015	Arkansas	Accidental discharge of firearms (W32-W34)	17
+2015	Arkansas	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	342
+2015	Arkansas	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	155
+2015	Arkansas	"#Legal intervention (Y35,Y89.0)"	0
+2015	California	Accidental discharge of firearms (W32-W34)	29
+2015	California	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	1559
+2015	California	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	1396
+2015	California	"#Legal intervention (Y35,Y89.0)"	103
+2015	Colorado	Accidental discharge of firearms (W32-W34)	0
+2015	Colorado	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	541
+2015	Colorado	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	137
+2015	Colorado	"#Legal intervention (Y35,Y89.0)"	12
+2015	Connecticut	Accidental discharge of firearms (W32-W34)	0
+2015	Connecticut	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	104
+2015	Connecticut	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	80
+2015	Connecticut	"#Legal intervention (Y35,Y89.0)"	0
+2015	Delaware	Accidental discharge of firearms (W32-W34)	0
+2015	Delaware	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	55
+2015	Delaware	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	53
+2015	Delaware	"#Legal intervention (Y35,Y89.0)"	0
+2015	Florida	Accidental discharge of firearms (W32-W34)	30
+2015	Florida	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	1630
+2015	Florida	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	880
+2015	Florida	"#Legal intervention (Y35,Y89.0)"	16
+2015	Georgia	Accidental discharge of firearms (W32-W34)	21
+2015	Georgia	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	823
+2015	Georgia	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	584
+2015	Georgia	"#Legal intervention (Y35,Y89.0)"	16
+2015	Hawaii	Accidental discharge of firearms (W32-W34)	0
+2015	Hawaii	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	44
+2015	Hawaii	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	0
+2015	Hawaii	"#Legal intervention (Y35,Y89.0)"	0
+2015	Idaho	Accidental discharge of firearms (W32-W34)	0
+2015	Idaho	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	215
+2015	Idaho	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	22
+2015	Idaho	"#Legal intervention (Y35,Y89.0)"	0
+2015	Illinois	Accidental discharge of firearms (W32-W34)	15
+2015	Illinois	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	495
+2015	Illinois	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	692
+2015	Illinois	"#Legal intervention (Y35,Y89.0)"	11
+2015	Indiana	Accidental discharge of firearms (W32-W34)	14
+2015	Indiana	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	517
+2015	Indiana	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	294
+2015	Indiana	"#Legal intervention (Y35,Y89.0)"	12
+2015	Iowa	Accidental discharge of firearms (W32-W34)	0
+2015	Iowa	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	193
+2015	Iowa	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	47
+2015	Iowa	"#Legal intervention (Y35,Y89.0)"	0
+2015	Kansas	Accidental discharge of firearms (W32-W34)	0
+2015	Kansas	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	224
+2015	Kansas	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	95
+2015	Kansas	"#Legal intervention (Y35,Y89.0)"	0
+2015	Kentucky	Accidental discharge of firearms (W32-W34)	0
+2015	Kentucky	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	499
+2015	Kentucky	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	174
+2015	Kentucky	"#Legal intervention (Y35,Y89.0)"	10
+2015	Louisiana	Accidental discharge of firearms (W32-W34)	17
+2015	Louisiana	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	468
+2015	Louisiana	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	456
+2015	Louisiana	"#Legal intervention (Y35,Y89.0)"	0
+2015	Maine	Accidental discharge of firearms (W32-W34)	0
+2015	Maine	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	128
+2015	Maine	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	14
+2015	Maine	"#Legal intervention (Y35,Y89.0)"	0
+2015	Maryland	Accidental discharge of firearms (W32-W34)	0
+2015	Maryland	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	244
+2015	Maryland	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	445
+2015	Maryland	"#Legal intervention (Y35,Y89.0)"	12
+2015	Massachusetts	Accidental discharge of firearms (W32-W34)	0
+2015	Massachusetts	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	118
+2015	Massachusetts	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	86
+2015	Massachusetts	"#Legal intervention (Y35,Y89.0)"	0
+2015	Michigan	Accidental discharge of firearms (W32-W34)	14
+2015	Michigan	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	692
+2015	Michigan	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	436
+2015	Michigan	"#Legal intervention (Y35,Y89.0)"	10
+2015	Minnesota	Accidental discharge of firearms (W32-W34)	0
+2015	Minnesota	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	304
+2015	Minnesota	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	92
+2015	Minnesota	"#Legal intervention (Y35,Y89.0)"	0
+2015	Mississippi	Accidental discharge of firearms (W32-W34)	18
+2015	Mississippi	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	292
+2015	Mississippi	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	264
+2015	Mississippi	"#Legal intervention (Y35,Y89.0)"	0
+2015	Missouri	Accidental discharge of firearms (W32-W34)	18
+2015	Missouri	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	605
+2015	Missouri	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	459
+2015	Missouri	"#Legal intervention (Y35,Y89.0)"	0
+2015	Montana	Accidental discharge of firearms (W32-W34)	0
+2015	Montana	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	174
+2015	Montana	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	20
+2015	Montana	"#Legal intervention (Y35,Y89.0)"	0
+2015	Nebraska	Accidental discharge of firearms (W32-W34)	0
+2015	Nebraska	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	114
+2015	Nebraska	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	50
+2015	Nebraska	"#Legal intervention (Y35,Y89.0)"	0
+2015	Nevada	Accidental discharge of firearms (W32-W34)	0
+2015	Nevada	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	293
+2015	Nevada	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	128
+2015	Nevada	"#Legal intervention (Y35,Y89.0)"	12
+2015	New Hampshire	Accidental discharge of firearms (W32-W34)	0
+2015	New Hampshire	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	107
+2015	New Hampshire	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	12
+2015	New Hampshire	"#Legal intervention (Y35,Y89.0)"	0
+2015	New Jersey	Accidental discharge of firearms (W32-W34)	0
+2015	New Jersey	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	189
+2015	New Jersey	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	273
+2015	New Jersey	"#Legal intervention (Y35,Y89.0)"	11
+2015	New Mexico	Accidental discharge of firearms (W32-W34)	0
+2015	New Mexico	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	275
+2015	New Mexico	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	91
+2015	New Mexico	"#Legal intervention (Y35,Y89.0)"	18
+2015	New York	Accidental discharge of firearms (W32-W34)	0
+2015	New York	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	421
+2015	New York	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	408
+2015	New York	"#Legal intervention (Y35,Y89.0)"	10
+2015	North Carolina	Accidental discharge of firearms (W32-W34)	39
+2015	North Carolina	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	787
+2015	North Carolina	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	438
+2015	North Carolina	"#Legal intervention (Y35,Y89.0)"	17
+2015	North Dakota	Accidental discharge of firearms (W32-W34)	0
+2015	North Dakota	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	76
+2015	North Dakota	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	11
+2015	North Dakota	"#Legal intervention (Y35,Y89.0)"	0
+2015	Ohio	Accidental discharge of firearms (W32-W34)	15
+2015	Ohio	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	861
+2015	Ohio	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	484
+2015	Ohio	"#Legal intervention (Y35,Y89.0)"	18
+2015	Oklahoma	Accidental discharge of firearms (W32-W34)	0
+2015	Oklahoma	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	468
+2015	Oklahoma	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	221
+2015	Oklahoma	"#Legal intervention (Y35,Y89.0)"	0
+2015	Oregon	Accidental discharge of firearms (W32-W34)	0
+2015	Oregon	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	373
+2015	Oregon	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	94
+2015	Oregon	"#Legal intervention (Y35,Y89.0)"	11
+2015	Pennsylvania	Accidental discharge of firearms (W32-W34)	16
+2015	Pennsylvania	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	932
+2015	Pennsylvania	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	522
+2015	Pennsylvania	"#Legal intervention (Y35,Y89.0)"	10
+2015	Rhode Island	Accidental discharge of firearms (W32-W34)	0
+2015	Rhode Island	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	40
+2015	Rhode Island	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	10
+2015	Rhode Island	"#Legal intervention (Y35,Y89.0)"	0
+2015	South Carolina	Accidental discharge of firearms (W32-W34)	12
+2015	South Carolina	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	469
+2015	South Carolina	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	360
+2015	South Carolina	"#Legal intervention (Y35,Y89.0)"	0
+2015	South Dakota	Accidental discharge of firearms (W32-W34)	0
+2015	South Dakota	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	73
+2015	South Dakota	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	15
+2015	South Dakota	"#Legal intervention (Y35,Y89.0)"	0
+2015	Tennessee	Accidental discharge of firearms (W32-W34)	30
+2015	Tennessee	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	638
+2015	Tennessee	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	363
+2015	Tennessee	"#Legal intervention (Y35,Y89.0)"	0
+2015	Texas	Accidental discharge of firearms (W32-W34)	43
+2015	Texas	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	1994
+2015	Texas	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	1110
+2015	Texas	"#Legal intervention (Y35,Y89.0)"	24
+2015	Utah	Accidental discharge of firearms (W32-W34)	0
+2015	Utah	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	313
+2015	Utah	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	41
+2015	Utah	"#Legal intervention (Y35,Y89.0)"	0
+2015	Vermont	Accidental discharge of firearms (W32-W34)	0
+2015	Vermont	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	59
+2015	Vermont	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	11
+2015	Vermont	"#Legal intervention (Y35,Y89.0)"	0
+2015	Virginia	Accidental discharge of firearms (W32-W34)	14
+2015	Virginia	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	630
+2015	Virginia	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	276
+2015	Virginia	"#Legal intervention (Y35,Y89.0)"	12
+2015	Washington	Accidental discharge of firearms (W32-W34)	0
+2015	Washington	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	537
+2015	Washington	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	162
+2015	Washington	"#Legal intervention (Y35,Y89.0)"	13
+2015	West Virginia	Accidental discharge of firearms (W32-W34)	0
+2015	West Virginia	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	215
+2015	West Virginia	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	50
+2015	West Virginia	"#Legal intervention (Y35,Y89.0)"	0
+2015	Wisconsin	Accidental discharge of firearms (W32-W34)	0
+2015	Wisconsin	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	424
+2015	Wisconsin	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	175
+2015	Wisconsin	"#Legal intervention (Y35,Y89.0)"	0
+2015	Wyoming	Accidental discharge of firearms (W32-W34)	0
+2015	Wyoming	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	95
+2015	Wyoming	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	13
+2015	Wyoming	"#Legal intervention (Y35,Y89.0)"	0
+2016	Alabama	Accidental discharge of firearms (W32-W34)	21
+2016	Alabama	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	550
+2016	Alabama	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	454
+2016	Alabama	"#Legal intervention (Y35,Y89.0)"	12
+2016	Alaska	Accidental discharge of firearms (W32-W34)	0
+2016	Alaska	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	113
+2016	Alaska	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	45
+2016	Alaska	"#Legal intervention (Y35,Y89.0)"	0
+2016	Arizona	Accidental discharge of firearms (W32-W34)	0
+2016	Arizona	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	755
+2016	Arizona	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	303
+2016	Arizona	"#Legal intervention (Y35,Y89.0)"	13
+2016	Arkansas	Accidental discharge of firearms (W32-W34)	11
+2016	Arkansas	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	331
+2016	Arkansas	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	182
+2016	Arkansas	"#Legal intervention (Y35,Y89.0)"	0
+2016	California	Accidental discharge of firearms (W32-W34)	36
+2016	California	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	1595
+2016	California	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	1467
+2016	California	"#Legal intervention (Y35,Y89.0)"	74
+2016	Colorado	Accidental discharge of firearms (W32-W34)	11
+2016	Colorado	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	613
+2016	Colorado	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	161
+2016	Colorado	"#Legal intervention (Y35,Y89.0)"	19
+2016	Connecticut	Accidental discharge of firearms (W32-W34)	0
+2016	Connecticut	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	110
+2016	Connecticut	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	55
+2016	Connecticut	"#Legal intervention (Y35,Y89.0)"	0
+2016	Delaware	Accidental discharge of firearms (W32-W34)	0
+2016	Delaware	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	65
+2016	Delaware	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	44
+2016	Delaware	"#Legal intervention (Y35,Y89.0)"	0
+2016	Florida	Accidental discharge of firearms (W32-W34)	13
+2016	Florida	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	1672
+2016	Florida	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	992
+2016	Florida	"#Legal intervention (Y35,Y89.0)"	14
+2016	Georgia	Accidental discharge of firearms (W32-W34)	21
+2016	Georgia	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	871
+2016	Georgia	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	653
+2016	Georgia	"#Legal intervention (Y35,Y89.0)"	14
+2016	Hawaii	Accidental discharge of firearms (W32-W34)	0
+2016	Hawaii	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	37
+2016	Hawaii	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	22
+2016	Hawaii	"#Legal intervention (Y35,Y89.0)"	0
+2016	Idaho	Accidental discharge of firearms (W32-W34)	0
+2016	Idaho	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	215
+2016	Idaho	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	15
+2016	Idaho	"#Legal intervention (Y35,Y89.0)"	0
+2016	Illinois	Accidental discharge of firearms (W32-W34)	11
+2016	Illinois	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	506
+2016	Illinois	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	944
+2016	Illinois	"#Legal intervention (Y35,Y89.0)"	16
+2016	Indiana	Accidental discharge of firearms (W32-W34)	20
+2016	Indiana	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	591
+2016	Indiana	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	368
+2016	Indiana	"#Legal intervention (Y35,Y89.0)"	11
+2016	Iowa	Accidental discharge of firearms (W32-W34)	0
+2016	Iowa	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	228
+2016	Iowa	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	49
+2016	Iowa	"#Legal intervention (Y35,Y89.0)"	0
+2016	Kansas	Accidental discharge of firearms (W32-W34)	0
+2016	Kansas	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	257
+2016	Kansas	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	113
+2016	Kansas	"#Legal intervention (Y35,Y89.0)"	0
+2016	Kentucky	Accidental discharge of firearms (W32-W34)	21
+2016	Kentucky	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	495
+2016	Kentucky	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	234
+2016	Kentucky	"#Legal intervention (Y35,Y89.0)"	15
+2016	Louisiana	Accidental discharge of firearms (W32-W34)	13
+2016	Louisiana	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	440
+2016	Louisiana	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	526
+2016	Louisiana	"#Legal intervention (Y35,Y89.0)"	0
+2016	Maine	Accidental discharge of firearms (W32-W34)	0
+2016	Maine	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	112
+2016	Maine	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	0
+2016	Maine	"#Legal intervention (Y35,Y89.0)"	0
+2016	Maryland	Accidental discharge of firearms (W32-W34)	0
+2016	Maryland	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	251
+2016	Maryland	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	436
+2016	Maryland	"#Legal intervention (Y35,Y89.0)"	17
+2016	Massachusetts	Accidental discharge of firearms (W32-W34)	0
+2016	Massachusetts	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	140
+2016	Massachusetts	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	89
+2016	Massachusetts	"#Legal intervention (Y35,Y89.0)"	11
+2016	Michigan	Accidental discharge of firearms (W32-W34)	14
+2016	Michigan	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	717
+2016	Michigan	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	482
+2016	Michigan	"#Legal intervention (Y35,Y89.0)"	0
+2016	Minnesota	Accidental discharge of firearms (W32-W34)	0
+2016	Minnesota	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	332
+2016	Minnesota	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	83
+2016	Minnesota	"#Legal intervention (Y35,Y89.0)"	10
+2016	Mississippi	Accidental discharge of firearms (W32-W34)	21
+2016	Mississippi	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	268
+2016	Mississippi	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	282
+2016	Mississippi	"#Legal intervention (Y35,Y89.0)"	0
+2016	Missouri	Accidental discharge of firearms (W32-W34)	13
+2016	Missouri	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	650
+2016	Missouri	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	464
+2016	Missouri	"#Legal intervention (Y35,Y89.0)"	0
+2016	Montana	Accidental discharge of firearms (W32-W34)	0
+2016	Montana	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	162
+2016	Montana	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	18
+2016	Montana	"#Legal intervention (Y35,Y89.0)"	0
+2016	Nebraska	Accidental discharge of firearms (W32-W34)	0
+2016	Nebraska	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	116
+2016	Nebraska	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	45
+2016	Nebraska	"#Legal intervention (Y35,Y89.0)"	0
+2016	Nevada	Accidental discharge of firearms (W32-W34)	0
+2016	Nevada	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	334
+2016	Nevada	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	149
+2016	Nevada	"#Legal intervention (Y35,Y89.0)"	0
+2016	New Hampshire	Accidental discharge of firearms (W32-W34)	0
+2016	New Hampshire	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	123
+2016	New Hampshire	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	0
+2016	New Hampshire	"#Legal intervention (Y35,Y89.0)"	0
+2016	New Jersey	Accidental discharge of firearms (W32-W34)	0
+2016	New Jersey	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	176
+2016	New Jersey	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	297
+2016	New Jersey	"#Legal intervention (Y35,Y89.0)"	0
+2016	New Mexico	Accidental discharge of firearms (W32-W34)	0
+2016	New Mexico	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	243
+2016	New Mexico	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	113
+2016	New Mexico	"#Legal intervention (Y35,Y89.0)"	16
+2016	New York	Accidental discharge of firearms (W32-W34)	0
+2016	New York	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	490
+2016	New York	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	390
+2016	New York	"#Legal intervention (Y35,Y89.0)"	13
+2016	North Carolina	Accidental discharge of firearms (W32-W34)	27
+2016	North Carolina	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	788
+2016	North Carolina	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	558
+2016	North Carolina	"#Legal intervention (Y35,Y89.0)"	24
+2016	North Dakota	Accidental discharge of firearms (W32-W34)	0
+2016	North Dakota	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	75
+2016	North Dakota	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	10
+2016	North Dakota	"#Legal intervention (Y35,Y89.0)"	0
+2016	Ohio	Accidental discharge of firearms (W32-W34)	12
+2016	Ohio	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	926
+2016	Ohio	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	557
+2016	Ohio	"#Legal intervention (Y35,Y89.0)"	15
+2016	Oklahoma	Accidental discharge of firearms (W32-W34)	0
+2016	Oklahoma	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	517
+2016	Oklahoma	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	238
+2016	Oklahoma	"#Legal intervention (Y35,Y89.0)"	0
+2016	Oregon	Accidental discharge of firearms (W32-W34)	0
+2016	Oregon	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	414
+2016	Oregon	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	78
+2016	Oregon	"#Legal intervention (Y35,Y89.0)"	11
+2016	Pennsylvania	Accidental discharge of firearms (W32-W34)	16
+2016	Pennsylvania	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	976
+2016	Pennsylvania	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	538
+2016	Pennsylvania	"#Legal intervention (Y35,Y89.0)"	15
+2016	Rhode Island	Accidental discharge of firearms (W32-W34)	0
+2016	Rhode Island	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	35
+2016	Rhode Island	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	13
+2016	Rhode Island	"#Legal intervention (Y35,Y89.0)"	0
+2016	South Carolina	Accidental discharge of firearms (W32-W34)	22
+2016	South Carolina	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	525
+2016	South Carolina	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	335
+2016	South Carolina	"#Legal intervention (Y35,Y89.0)"	0
+2016	South Dakota	Accidental discharge of firearms (W32-W34)	0
+2016	South Dakota	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	84
+2016	South Dakota	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	14
+2016	South Dakota	"#Legal intervention (Y35,Y89.0)"	0
+2016	Tennessee	Accidental discharge of firearms (W32-W34)	19
+2016	Tennessee	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	675
+2016	Tennessee	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	434
+2016	Tennessee	"#Legal intervention (Y35,Y89.0)"	0
+2016	Texas	Accidental discharge of firearms (W32-W34)	47
+2016	Texas	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	2016
+2016	Texas	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	1222
+2016	Texas	"#Legal intervention (Y35,Y89.0)"	35
+2016	Utah	Accidental discharge of firearms (W32-W34)	0
+2016	Utah	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	309
+2016	Utah	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	48
+2016	Utah	"#Legal intervention (Y35,Y89.0)"	0
+2016	Vermont	Accidental discharge of firearms (W32-W34)	0
+2016	Vermont	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	69
+2016	Vermont	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	0
+2016	Vermont	"#Legal intervention (Y35,Y89.0)"	0
+2016	Virginia	Accidental discharge of firearms (W32-W34)	0
+2016	Virginia	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	671
+2016	Virginia	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	353
+2016	Virginia	"#Legal intervention (Y35,Y89.0)"	11
+2016	Washington	Accidental discharge of firearms (W32-W34)	0
+2016	Washington	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	515
+2016	Washington	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	146
+2016	Washington	"#Legal intervention (Y35,Y89.0)"	19
+2016	West Virginia	Accidental discharge of firearms (W32-W34)	0
+2016	West Virginia	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	238
+2016	West Virginia	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	78
+2016	West Virginia	"#Legal intervention (Y35,Y89.0)"	11
+2016	Wisconsin	Accidental discharge of firearms (W32-W34)	0
+2016	Wisconsin	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	455
+2016	Wisconsin	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	188
+2016	Wisconsin	"#Legal intervention (Y35,Y89.0)"	0
+2016	Wyoming	Accidental discharge of firearms (W32-W34)	0
+2016	Wyoming	Intentional self-harm (suicide) by discharge of firearms (X72-X74)	87
+2016	Wyoming	"Assault (homicide) by discharge of firearms (*U01.4,X93-X95)"	11
+2016	Wyoming	"#Legal intervention (Y35,Y89.0)"	0
